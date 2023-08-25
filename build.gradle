@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath group: 'org.jetbrains.kotlin', name: 'kotlin-gradle-plugin', version: '1.8.22'
+        classpath group: 'org.jetbrains.kotlin', name: 'kotlin-gradle-plugin', version: '1.9.10'
         classpath group: 'org.ajoberstar', name: 'gradle-git', version: '1.7.2'
         classpath group: 'com.terrafolio', name: 'gradle-jenkins-plugin', version: '1.1.0'
         classpath group: 'com.bmuschko', name: 'gradle-vagrant-plugin', version: '3.0.0'
